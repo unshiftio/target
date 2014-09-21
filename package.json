@@ -1,0 +1,17 @@
+{
+  "name": "target",
+  "version": "0.0.2",
+  "description": "Use iFrame targets to POST data to servers without page reloads",
+  "main": "index.js",
+  "keywords": [
+    "iframe",
+    "post",
+    "jsonp",
+    "target"
+  ],
+  "author": "Arnout Kazemier",
+  "license": "MIT",
+  "dependencies": {
+    "frames": "0.0.x"
+  }
+}

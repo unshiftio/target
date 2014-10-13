@@ -13,5 +13,9 @@
   "license": "MIT",
   "dependencies": {
     "frames": "0.0.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/unshiftio/target"
   }
 }

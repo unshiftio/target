@@ -12,7 +12,7 @@
   "author": "Arnout Kazemier",
   "license": "MIT",
   "dependencies": {
-    "frames": "0.0.x"
+    "frames": "~0.0.1"
   },
   "repository": {
     "type": "git",
